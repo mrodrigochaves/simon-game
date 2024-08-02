@@ -3,7 +3,7 @@
 Projeto do jogo Simon em React. O objetivo é implementar uma versão interativa e divertida do clássico jogo de memória, onde o jogador deve repetir uma sequência de cores mostradas pelo jogo.
 
 ## 💻 Stacks utilizadas:
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1C?style=for-the-badge&logo=javascript&logoColor=black) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ## 🚀 Funcionalidades
 
